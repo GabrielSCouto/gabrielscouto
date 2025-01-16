@@ -1,12 +1,13 @@
 ## Hey there, I'm Gabriel Couto! 👋
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielscouto&hide=contribs,prs&theme=github_dark)
 <!--
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielscouto&hide=contribs,prs&theme=github_dark)
+
 **GabrielSCouto/gabrielscouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## 🛠️ My Tools and Languages 
+🛠️ My Tools and Languages 
 
-### **Languages**
+<!--### **Languages** -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
